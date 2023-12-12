@@ -1,0 +1,6 @@
+client.crt
+client.key
+apiserver.local.config
+.idea
+kubeconfig
+*kubeconfig*
